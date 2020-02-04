@@ -23,3 +23,27 @@ else
 {
     print("I'm not sure about coding")
 }
+
+
+var interger = 1
+var interger2 = 2
+
+if interger > 2{
+    
+}
+if interger2 < 1
+{
+print("MoneyMakingMitch")
+    
+}
+else{
+    print("WatchOutRicky")
+}
+
+var pass = "Balling like a pro"
+var pass2 = " Balling like a novice"
+var pass3 = pass + pass2
+
+if pass == "Balling like a pro"{
+print(pass3)
+}
